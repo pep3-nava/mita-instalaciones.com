@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /.htpasswd
+Disallow: /.htaccess
+Sitemap: https://mita-instalaciones.simdif.com/sitemap.xml
